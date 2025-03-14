@@ -1,0 +1,2 @@
+planet = "Earth"
+print(planet)
